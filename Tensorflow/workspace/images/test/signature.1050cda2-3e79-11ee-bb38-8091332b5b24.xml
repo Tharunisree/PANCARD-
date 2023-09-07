@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>signature.1050cda2-3e79-11ee-bb38-8091332b5b24.jpg</filename>
+	<path>C:\Users\HP\Desktop\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\signature.1050cda2-3e79-11ee-bb38-8091332b5b24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>35</ymin>
+			<xmax>489</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

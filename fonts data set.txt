@@ -1,0 +1,101 @@
+SNO,type_of_fonts
+1,Arial
+2,"Times New Roman"
+3,Helvetica
+4,Calibri
+5,"Courier New"
+6,Verdana
+7,Georgia
+8,"Comic Sans MS"
+9,Palatino
+10,Impact
+11,"Lucida Console"
+12,Tahoma
+13,"Trebuchet MS"
+14,"Book Antiqua"
+15,"Arial Narrow"
+16,"Century Gothic"
+17,Garamond
+18,"Franklin Gothic Medium"
+19,"Copperplate Gothic"
+20,Futura
+21,Rockwell
+22,"Brush Script MT"
+23,"Bodoni MT"
+24,"Monotype Corsiva"
+25,"Segoe UI"
+26,Cambria
+27,Consolas
+28,Corbel
+29,"Arial Black"
+30,Didot
+31,"Gill Sans"
+32,"Engravers MT"
+33,"Old English Text MT"
+34,Bahnschrift
+35,"Bell MT"
+36,"Berlin Sans FB"
+37,Castellar
+38,"Footlight MT Light"
+39,"Freestyle Script"
+40,"Harlow Solid Italic"
+41,Jokerman
+42,"Kunstler Script"
+43,"Lucida Handwriting"
+44,Magneto
+45,Mistral
+46,Onyx
+47,Papyrus
+48,Perpetua
+49,Ravie
+50,"Showcard Gothic"
+51,"Snap ITC"
+52,"Viner Hand ITC"
+53,"Wide Latin"
+54,Stencil
+55,Broadway
+56,Chiller
+57,Forte
+58,"Lucida Sans Typewriter"
+59,"Microsoft YaHei"
+60,"Mongolian Baiti"
+61,"MV Boli"
+62,"OCR A Extended"
+63,"Palatino Linotype"
+64,"Simplified Arabic"
+65,Sitka
+66,Sylfaen
+67,"Trajan Pro"
+68,"Tw Cen MT"
+69,Utsaah
+70,Vivaldi
+71,"Consolas Mono"
+72,"Lucida Sans Unicode"
+73,"Segoe Print"
+74,Aharoni
+75,"Leelawadee UI"
+76,Ebrima
+77,Nyala
+78,"Cordia New"
+79,Tunga
+80,"Estrangelo Edessa"
+81,"Frank Ruhl Libre"
+82,"Noto Sans Samaritan"
+83,Tinos
+84,Symbola
+85,Quivira
+86,"DejaVu Sans"
+87,"Noto Sans"
+88,"Source Sans Pro"
+89,"Open Sans"
+90,Lato
+91,Roboto
+92,Montserrat
+93,Raleway
+94,"Playfair Display"
+95,Pacifico
+96,Lobster
+97,Baskerville
+98,Merriweather
+99,Ubuntu
+100,"Crimson Text"
