@@ -1,0 +1,6 @@
+Download the PANCARD repository and the Pan_Models repository, 
+and then copy or cut and paste all the files from the Pan_Models repository 
+copy into the 'PANCARD/Tensorflow/models' directory
+
+
+Pan_Models Link : https://github.com/Tharunisree/Pan_Models
